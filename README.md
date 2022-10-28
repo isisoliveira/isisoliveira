@@ -9,11 +9,12 @@
 📚 Systems Analysis and Development Student in Uninove University<br>
 🏆 My certifications: 
 <ul> 
-  <li>Certificado de Participação HTML e CSS – Alura - Carga Horária 32 horas</li>
-  <li>Certificado Lógica de Programação Essencial – Digital Innovation One – Carga Horária 4 horas</li>
-  <li>Certificado Segurança em tecnologia da informação – Fundação Bradesco - Carga Horária 12 horas</li>
-  <li>Certificado Projetos de Sistemas de TI – Fundação Bradesco – Carga Horária 15 horas</li>
-  <li>Certificado Informática Básica – UNINOVE – Carga Horária 40 horas</li>
+  <li>Certificado de Participação HTML e CSS – Alura</li>
+  <li>Certificado Introdução ao Git e ao GitHub - DIO</li>   
+  <li>Certificado Lógica de Programação Essencial – DIO</li>
+  <li>Certificado Segurança em tecnologia da informação – Fundação Bradesco</li>
+  <li>Certificado Projetos de Sistemas de TI – Fundação Bradesco</li>
+  <li>Certificado Informática Básica – UNINOVE</li>
   <li>More soon...</li> 
 </ul>
 <a href="mailto:contato.isisoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
