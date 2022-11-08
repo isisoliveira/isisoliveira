@@ -29,7 +29,5 @@
 <strong>💡 My Languages :</strong><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isisoliveira&langs_count_private=true&theme=radical&card_width=445&layout=compact)<br><br>
 
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isisoliveira&repo=isisoliveira&theme=radical)](https://github.com/isisoliveira/isisoliveira)
 </div>
 
