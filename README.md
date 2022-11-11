@@ -6,6 +6,13 @@
 
 <div>
 <strong>About Me:</strong><br>
+    
+ <p> 
+ :computer: I've always wanted to work as a programmer, and now I'm having the opportunity to make that dream come true. 
+ I started my studies in 2021 at the Systems Analysis and Development Graduation, and since then I try to learn 
+ and absorb all the knowledge possible, not only in college, but in all courses and places that are within my reach.
+ </p><br>
+     
 📚 Systems Analysis and Development Student in Uninove University<br><br>
 🏆 My certifications: 
 <ul> 
